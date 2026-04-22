@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Germán Pupato"
+  description: "Associate Professor of Economics, Toronto Metropolitan University"
+  site-url: "https://gpupato.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: "mailto:gpupato@torontomu.ca"
+        aria-label: Email
+  page-footer:
+    left: "© Germán Pupato"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    css: styles.css
+    toc: false
+    fontsize: 1.05em
+    linestretch: 1.55
+    mainfont: "Source Sans Pro, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    grid:
+      body-width: 820px
+      margin-width: 220px
+    link-external-newwindow: true

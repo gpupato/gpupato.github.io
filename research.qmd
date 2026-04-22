@@ -1,0 +1,67 @@
+---
+title: "Research"
+pagetitle: "Research — Germán Pupato"
+---
+
+## Publications
+
+::: {.pub-entry}
+[**Estimating the Gains from Trade in Frictional Local Labor Markets**]{.pub-title}\
+with Jeanne Tschopp and Benjamin Sand\
+[*Scandinavian Journal of Economics*, accepted.]{.pub-venue}\
+[[paper](files/pupato-tschopp-sand-SJE2025.pdf)]&nbsp;·&nbsp;[[online appendix](files/pupato-tschopp-sand-SJE2025-appendix.pdf)]
+:::
+
+::: {.pub-entry}
+[**Performance Pay, Trade and Inequality**]{.pub-title}\
+[*Journal of Economic Theory*, Vol. 172, November 2017, pp. 478–504.]{.pub-venue}\
+[[paper](files/pupato-JET2017.pdf)]&nbsp;·&nbsp;[[online appendix](files/pupato-JET2017-appendix.pdf)]
+:::
+
+::: {.pub-entry}
+[**Unobservable Skill Dispersion and Comparative Advantage**]{.pub-title}\
+with Matilde Bombardini and Giovanni Gallipoli\
+[*Journal of International Economics*, Vol. 92, Issue 2, 2014, pp. 317–329.]{.pub-venue}\
+[[paper](files/bombardini-gallipoli-pupato-JIE2014.pdf)]&nbsp;·&nbsp;[[online appendix](files/bombardini-gallipoli-pupato-JIE2014-appendix.pdf)]
+:::
+
+::: {.pub-entry}
+[**Skill Dispersion and Trade Flows**]{.pub-title}\
+with Matilde Bombardini and Giovanni Gallipoli\
+[*American Economic Review*, Vol. 102, Issue 5, 2012, pp. 2327–2348.]{.pub-venue}\
+[[paper](files/bombardini-gallipoli-pupato-AER2012.pdf)]&nbsp;·&nbsp;[[online appendix](files/bombardini-gallipoli-pupato-AER2012-appendix.pdf)]&nbsp;·&nbsp;[[data and code](https://www.openicpsr.org/openicpsr/project/112549/version/V1/view)]
+:::
+
+::: {.pub-entry}
+[**Innovation and Productivity in Developing Countries**]{.pub-title}\
+with Daniel Chudnovsky and Andrés López\
+[*Research Policy*, Vol. 35, Issue 2, 2006, pp. 266–288.]{.pub-venue}
+:::
+
+## Working Papers
+
+::: {.pub-entry}
+[**Spatial Trade with Transportation Markets**]{.pub-title}\
+with Busra Ariduru
+:::
+
+::: {.pub-entry}
+[**Identifying Sources of Comparative Advantage**]{.pub-title}\
+with Myung Seong Kim
+:::
+
+::: {.pub-entry}
+[**How Robust is the Skill-Dispersion–Complementarity Hypothesis?**]{.pub-title}\
+with Matilde Bombardini and Giovanni Gallipoli
+:::
+
+## Work in Progress
+
+::: {.pub-entry}
+[**Informality and Labor Market Outcomes**]{.pub-title}\
+with Carlos Henrique Corseuil
+:::
+
+::: {.pub-entry}
+[**Non-Market Interactions and Entry into Export Markets: An Empirical Analysis**]{.pub-title}
+:::

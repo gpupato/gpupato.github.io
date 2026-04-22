@@ -1,0 +1,12 @@
+---
+title: "CV"
+pagetitle: "CV — Germán Pupato"
+---
+
+[Download CV (PDF)](files/CV_Pupato_May_2025.pdf){.btn .btn-outline-primary}
+
+<br>
+
+<iframe src="files/CV_Pupato_May_2025.pdf" width="100%" height="900px" style="border: 1px solid #ddd; border-radius: 6px;">
+  Your browser does not support embedded PDFs. [Download the CV instead.](files/CV_Pupato_May_2025.pdf)
+</iframe>

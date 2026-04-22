@@ -1,0 +1,44 @@
+/*-- scss:defaults --*/
+
+$primary: #8a1538;   // TMU-ish deep red accent
+$link-color: $primary;
+$body-color: #222;
+$headings-font-weight: 600;
+
+/*-- scss:rules --*/
+
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #eee;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.navbar {
+  border-bottom: 1px solid #eee;
+}
+
+.pub-entry {
+  margin-bottom: 1.1rem;
+  padding-left: 0;
+}
+
+.pub-title {
+  font-weight: 600;
+}
+
+.pub-venue {
+  font-style: italic;
+  color: #555;
+}
