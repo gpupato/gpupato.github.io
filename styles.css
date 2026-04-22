@@ -1,0 +1,29 @@
+.profile-card {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.profile-card img {
+  width: 170px;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+.profile-card .profile-text {
+  flex: 1;
+  min-width: 260px;
+}
+
+.contact-block {
+  font-size: 0.95em;
+  line-height: 1.7;
+  color: #333;
+}
+
+.contact-block strong {
+  color: #222;
+}
