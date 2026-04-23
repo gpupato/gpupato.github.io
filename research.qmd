@@ -8,7 +8,7 @@ pagetitle: "Research — Germán Pupato"
 ::: {.pub-entry}
 [**Estimating the Gains from Trade in Frictional Local Labor Markets**]{.pub-title}\
 with Jeanne Tschopp and Benjamin Sand\
-[*Scandinavian Journal of Economics*, accepted.]{.pub-venue}\
+[*Scandinavian Journal of Economics*, Vol. 128, Issue 1, 2026, pp. 152–200.]{.pub-venue}\
 [[paper](files/pupato-tschopp-sand-SJE2025.pdf)]&nbsp;·&nbsp;[[online appendix](files/pupato-tschopp-sand-SJE2025-appendix.pdf)]
 :::
 
