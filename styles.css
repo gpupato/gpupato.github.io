@@ -20,10 +20,77 @@
 
 .contact-block {
   font-size: 0.95em;
-  line-height: 1.7;
+  line-height: 1.75;
   color: #333;
 }
 
 .contact-block strong {
   color: #222;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+.column-screen > p {
+  margin: 0;
+}
+
+/* On pages with a hero banner, suppress Quarto's auto-rendered title block;
+   the page provides its own heading inside `.content-card` instead. The
+   :has() guard keeps this scoped — Research/CV pages keep their default
+   title blocks. Document order: hero → attribution → manual title → body. */
+main#quarto-document-content:has(> .column-screen) > #title-block-header {
+  display: none;
+}
+
+.content-card {
+  max-width: 720px;
+  margin: 2.5rem auto 3rem;
+  padding: 2.25rem 2.75rem;
+  background: #fcfcfc;
+  border: 1px solid #ececec;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.035);
+}
+
+.content-card > h1:first-child,
+.content-card > h2:first-child {
+  margin-top: 0;
+}
+
+.content-card h2 {
+  border-bottom-color: #e6e6e6;
+}
+
+@media (max-width: 600px) {
+  .content-card {
+    padding: 1.5rem 1.25rem;
+    margin: 1.5rem auto 2rem;
+  }
+}
+
+.hero-img {
+  display: block;
+  width: 100%;
+  height: clamp(150px, 20vw, 320px);
+  object-fit: cover;
+  margin: 0;
+}
+
+.hero-attribution {
+  display: block;
+  font-size: 0.78em;
+  color: #888;
+  text-align: right;
+  margin-top: 0.4rem;
+  margin-bottom: 1.8rem;
+}
+
+.hero-attribution a {
+  color: #888;
+  text-decoration: none;
+}
+
+.hero-attribution a:hover {
+  text-decoration: underline;
+  color: #555;
 }

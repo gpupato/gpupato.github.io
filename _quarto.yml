@@ -1,11 +1,20 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - robots.txt
 
 website:
   title: "Germán Pupato"
   description: "Associate Professor of Economics, Toronto Metropolitan University"
   site-url: "https://gpupato.github.io"
+  favicon: favicon.svg
+  open-graph:
+    image: files/toronto-skyline.jpg
+    locale: en_CA
+  twitter-card:
+    image: files/toronto-skyline.jpg
+    card-style: summary_large_image
   navbar:
     left:
       - href: index.qmd
@@ -31,7 +40,12 @@ format:
     toc: false
     fontsize: 1.05em
     linestretch: 1.55
-    mainfont: "Source Sans Pro, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    mainfont: "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap" rel="stylesheet">
     grid:
       body-width: 820px
       margin-width: 220px

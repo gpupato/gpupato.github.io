@@ -1,13 +1,32 @@
 ---
 title: "Germán Pupato"
-pagetitle: "Germán Pupato"
+pagetitle: "Germán Pupato — Associate Professor of Economics, Toronto Metropolitan University"
 page-layout: article
+image: files/toronto-skyline.jpg
 ---
 
+::: {.column-screen}
+<img src="files/toronto-skyline.jpg" alt="Panoramic view of the Toronto skyline" class="hero-img" />
+:::
+
+::: {.hero-attribution-wrap}
+[Photo: [Francisco Diez](https://commons.wikimedia.org/wiki/File:Panorama_skyline_Toronto_2010.jpg) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)]{.hero-attribution}
+:::
+
+::: {.content-card}
+# Germán Pupato
+
+::: {.profile-card}
+<img src="files/profile.jpg" alt="Germán Pupato" class="profile-img" />
+
+::: {.profile-text}
 Associate Professor, Department of Economics\
 [Toronto Metropolitan University](https://www.torontomu.ca/economics/)
 
 I study international trade and spatial economics — how transportation markets, skill heterogeneity, and labor market frictions shape comparative advantage and the gains from trade.
+:::
+
+:::
 
 ## Contact
 
@@ -18,3 +37,38 @@ I study international trade and spatial economics — how transportation markets
 **Mail:**&nbsp;Department of Economics, Toronto Metropolitan University, 350 Victoria St., Toronto, ON M5B 2K3, Canada\
 **ORCID:**&nbsp;[0009-0002-6444-5327](https://orcid.org/0009-0002-6444-5327)
 :::
+
+:::
+
+```{=html}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Germán Pupato",
+  "givenName": "Germán",
+  "familyName": "Pupato",
+  "jobTitle": "Associate Professor of Economics",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "Toronto Metropolitan University",
+    "url": "https://www.torontomu.ca/economics/"
+  },
+  "worksFor": {
+    "@type": "CollegeOrUniversity",
+    "name": "Toronto Metropolitan University"
+  },
+  "url": "https://gpupato.github.io",
+  "email": "mailto:gpupato@torontomu.ca",
+  "knowsAbout": [
+    "International Trade",
+    "Spatial Economics",
+    "Comparative Advantage",
+    "Transportation Markets"
+  ],
+  "sameAs": [
+    "https://orcid.org/0009-0002-6444-5327"
+  ]
+}
+</script>
+```
