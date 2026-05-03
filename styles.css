@@ -94,3 +94,45 @@ main#quarto-document-content:has(> .column-screen) > #title-block-header {
   text-decoration: underline;
   color: #555;
 }
+
+/* Dark-mode overrides for custom elements. Quarto sets body.quarto-dark
+   on the page when the navbar toggle is set to dark; Bootstrap handles base
+   colors, but the hard-coded values above need their own dark counterparts. */
+body.quarto-dark .content-card {
+  background: #1d2127;
+  border-color: #2a2f36;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+}
+
+body.quarto-dark .content-card h2 {
+  border-bottom-color: #2a2f36;
+}
+
+body.quarto-dark .contact-block {
+  color: #d0d4da;
+}
+
+body.quarto-dark .contact-block strong {
+  color: #f0f2f5;
+}
+
+body.quarto-dark .hero-attribution,
+body.quarto-dark .hero-attribution a {
+  color: #9aa0a8;
+}
+
+body.quarto-dark .hero-attribution a:hover {
+  color: #c5c9d0;
+}
+
+body.quarto-dark h2 {
+  border-bottom-color: #2a2f36;
+}
+
+body.quarto-dark .pub-venue {
+  color: #d0d4da;
+}
+
+body.quarto-dark .navbar {
+  border-bottom-color: #2a2f36;
+}
