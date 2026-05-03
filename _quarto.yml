@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - robots.txt
+    - google288a38e17463d2a7.html
 
 website:
   title: "Germán Pupato"
