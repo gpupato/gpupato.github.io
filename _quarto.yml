@@ -35,8 +35,8 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - styles.scss
+      light: [cosmo, styles.scss]
+      dark: [darkly, styles.scss]
     css: styles.css
     toc: false
     fontsize: 1.05em
