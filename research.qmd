@@ -42,7 +42,8 @@ with Daniel Chudnovsky and Andrés López\
 
 ::: {.pub-entry}
 [**Spatial Trade with Transportation Markets**]{.pub-title}\
-with Busra Ariduru
+with Busra Ariduru\
+[[paper](files/ariduru-pupato-spatial-trade.pdf)]&nbsp;·&nbsp;[[online appendix](files/ariduru-pupato-spatial-trade-appendix.pdf)]
 :::
 
 ::: {.pub-entry}
